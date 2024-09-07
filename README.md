@@ -1,4 +1,6 @@
 # Project: Machine learning for glacier mass balance modelling
+**Owner:** <br />
+Thomas Frank
 
 **Authors:** <br />
 Jordi Bolibar <br />
