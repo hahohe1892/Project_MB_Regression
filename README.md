@@ -2,6 +2,9 @@
 **Owner:** <br />
 Thomas Frank
 
+**Student:** <br />
+Facundo Sapienza
+
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
